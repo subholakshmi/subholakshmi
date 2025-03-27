@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **JavaScript, React, and Java FullStack**.  
 - 🎯 Looking for exciting projects to collaborate on!  
 - 📫 Reach me at:  
-  - **Email:** subholakshmibiswas444@gmail.com  
+  - **Email:** subholakshmi2021@gmail.com  
   - **LinkedIn:**(http://www.linkedin.com/in/subholakshmibiswas)  
   - **LeetCode:** [LeetCode Profile]((https://leetcode.com/u/subhlakshmi/))  
   - **GeeksforGeeks:** [GeeksforGeeks Profile]([https://www.geeksforgeeks.org/user/subholakshmcyrg/])  
