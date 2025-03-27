@@ -6,8 +6,8 @@
 - 📫 Reach me at:  
   - **Email:** subholakshmi2021@gmail.com  
   - **LinkedIn:**(http://www.linkedin.com/in/subholakshmibiswas)  
-  - **LeetCode:** [LeetCode Profile]((https://leetcode.com/u/subhlakshmi/))  
-  - **GeeksforGeeks:** [GeeksforGeeks Profile]([https://www.geeksforgeeks.org/user/subholakshmcyrg/])  
+  - **LeetCode:** [LeetCode Profile](https://leetcode.com/u/subhlakshmi/)  
+  - **GeeksforGeeks:** [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/subholakshmcyrg/)  
 
 ⚡ **Fun Fact:** I love exploring new tech and blending creativity with coding! 🚀  
 
