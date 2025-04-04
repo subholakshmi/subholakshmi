@@ -5,7 +5,7 @@
 - 🎯 Looking for exciting projects to collaborate on!  
 - 📫 Reach me at:  
   - **Email:** subholakshmibiswas444@gmail.com  
-  - **LinkedIn:**(http://www.linkedin.com/in/subholakshmibiswas)  
+  - **LinkedIn:**http://www.linkedin.com/in/subholakshmibiswas  
   - **LeetCode:** [LeetCode Profile](https://leetcode.com/u/subhlakshmi/)  
   - **GeeksforGeeks:** [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/subholakshmcyrg/)  
 
